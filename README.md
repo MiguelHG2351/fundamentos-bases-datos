@@ -1,0 +1,1 @@
+# Consultas del curso de fundamentos de bases de datos en platzi
