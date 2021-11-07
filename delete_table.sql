@@ -1,0 +1,1 @@
+DROP TABLE platzi_blog.users

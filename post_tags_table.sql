@@ -1,0 +1,9 @@
+CREATE TABLE post_tags(
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+post_id INT NOT NULL,
+tag_id INT NOT NULL,
+constraint posts_tags_ibfk_1 FOREIGN KEY (post_id)
+REFERENCES post (id) ON UPDATE CASCADE ON DELETE NO ACTION,
+constraint posts_tags_ibfk_2 FOREIGN KEY (tag_id)
+REFERENCES tags (id) ON UPDATE CASCADE ON DELETE NO ACTION
+);
