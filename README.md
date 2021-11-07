@@ -34,3 +34,7 @@ Todo lo que esta en B y solo los datos de A que esten en B
 Todos los post sin usuario
 Todo lo que este en B pero no en A
 
+![](https://i.imgur.com/s3Rt7Gz.png)
+
+![](https://i.imgur.com/YyN1bu5.png)
+
